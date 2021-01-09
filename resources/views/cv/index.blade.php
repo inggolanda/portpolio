@@ -273,7 +273,7 @@
                     <div class="portfolio__data">
                         <span class="portfolio__subtitle">Rapot Sekolah</span>
                         <a href="">
-                            <h2 class="portfolio__title">New Portfolio</h2>
+                            <h2 class="portfolio__title">Portfolio Rapot Sekolah</h2>
                         </a>
                         <a href="" class="button button-link">View Details</a>
                     </div>
@@ -284,7 +284,7 @@
                     <div class="portfolio__data">
                         <span class="portfolio__subtitle">Cv-Portfolio</span>
                         <a href="">
-                            <h2 class="portfolio__title">New Portfolio</h2>
+                            <h2 class="portfolio__title">Cv-portfolio</h2>
                         </a>
                         <a href="" class="button button-link">View Details</a>
                     </div>
@@ -295,7 +295,7 @@
                     <div class="portfolio__data">
                         <span class="portfolio__subtitle">Pesananan Film</span>
                         <a href="">
-                            <h2 class="portfolio__title">New Portfolio</h2>
+                            <h2 class="portfolio__title">pesanan film</h2>
                         </a>
                         <a href="" class="button button-link">View Details</a>
                     </div>
@@ -306,7 +306,7 @@
                     <div class="portfolio__data">
                         <span class="portfolio__subtitle">Email Blast</span>
                         <a href="">
-                            <h2 class="portfolio__title">New Portfolio</h2>
+                            <h2 class="portfolio__title">Email Blast</h2>
                         </a>
                         <a href="" class="button button-link">View Details</a>
                     </div>
